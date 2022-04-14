@@ -13,6 +13,8 @@ https://user-images.githubusercontent.com/77084039/163292319-a767c833-1122-49ba-
 
 
 bash install.sh
+
+
 bash run.sh
 
 
