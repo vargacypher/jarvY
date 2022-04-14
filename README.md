@@ -9,6 +9,10 @@ Made in Raspberry pi 2 with Python 3.9 !!!
 https://user-images.githubusercontent.com/77084039/163292319-a767c833-1122-49ba-a998-a83d2e8267f7.mp4
 
 
+**USE**
+bash install.sh
+bash run.sh
+
 
 
 **Trocar playlist do "Meu MIX"**:
