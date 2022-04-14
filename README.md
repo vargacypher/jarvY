@@ -9,13 +9,13 @@ https://user-images.githubusercontent.com/77084039/163292319-a767c833-1122-49ba-
 
 
 
-#Trocar playlist do "Meu MIX":
+**Trocar playlist do "Meu MIX"**:
 
 -edit playlist.sh
 
 
 
-#Errors:
+**Errors**:
 
 - **youtube-dl out of date** (https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-update-youtube-dl)
 
