@@ -1,5 +1,11 @@
 **JARVY** (dev)
 
+**Next STEPS**
+
+
+-AI voice assistant that run's in this raspbery
+-Share this as package
+
 Jarvy (jarvis) is a lightweight personal assistant under development for raspberry pi.
 
 
