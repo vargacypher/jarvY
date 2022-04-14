@@ -9,6 +9,7 @@ Trocar playlist do "Meu MIX":
 -edit playlist.sh
 
 
+
 Errors:
 
 - **youtube-dl out of date** (https://github.com/ytdl-org/youtube-dl/blob/master/README.md#how-do-i-update-youtube-dl)
