@@ -7,7 +7,7 @@ import pywhatkit as kit
 import time
 import subprocess as sp
 
-#apt install mpv, flac, cmatrix, mpv
+#apt install mpv, flac, cmatrix
 #pip pipwin 
 # pipwin pyaudio
 
