@@ -1,0 +1,7 @@
+SpeechRecognition
+gTTS
+datetime
+wikipedia
+pyjokes
+pyautogui
+preferredsoundplayer
