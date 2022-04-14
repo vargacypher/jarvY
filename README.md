@@ -8,17 +8,11 @@ Made in Raspberry pi 2 with Python 3.9 !!!
 
 
 
-
-https://user-images.githubusercontent.com/77084039/163292114-19bd941f-bade-466a-8460-0d8151c1452b.mp4
-
+https://user-images.githubusercontent.com/77084039/163292190-4745430e-5bd7-4e3c-86da-d55b70b71904.mp4
 
 
 
-
-
-
-https://user-images.githubusercontent.com/77084039/163292118-42eb33f6-7e51-4505-a04e-9b9c4d37e4d6.mp4
-
+Uploading teste2.mp4…
 
 
 
